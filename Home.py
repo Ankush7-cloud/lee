@@ -1,7 +1,6 @@
 import streamlit as st
 
 def app():
-    st.image("isi.jpg",width=150)
     st.title("IDEAS - Institute of Data Engineering, Analytics and Science Foundation")
     st.subheader("Welcome to the platform!")
     st.markdown("""
